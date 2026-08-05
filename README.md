@@ -2,14 +2,9 @@
 
 # :space_invader: Maria Izabel
 
-<img src="./assets/avatar-pixel.png" width="180" alt="" />
-
-<br><br>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Analista+de+Suporte+T%C3%A9cnico;Futuro+Analista+de+Dados;21+anos+%7C+Apaixonado+por+Tecnologia;Windows+%2F+Linux+User" alt="Typing SVG" />
 
 </div>
-
 ---
 
 ## :technologist: Sobre Mim
