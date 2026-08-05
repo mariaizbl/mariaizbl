@@ -28,16 +28,16 @@ $ neofetch
 ```
 
 ---
+
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2000&pause=500&color=E879F9&center=true&vCenter=true&width=400&lines=★+SKILLS+%26+TECH+★" alt="Skills" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=E879F9&center=true&vCenter=true&width=400&lines=%E2%9A%94+SKILLS+%26+TECH+%E2%9A%94;HTML+%7C+CSS+%7C+JS;SQL+%7C+Python+%7C+Power+BI;C+%7C+C%2B%2B+%7C+Excel;Automa%C3%A7%C3%A3o+%7C+Windows+%7C+Linux" alt="Skills Typing" />
+
 </div>
 
 <br>
 
 <div align="center">
-<table>
-<tr>
-<td align="center">
 
 ### :computer: Desenvolvimento Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -74,17 +74,13 @@ $ neofetch
 
 ---
 
-
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2000&pause=500&color=C084FC&center=true&vCenter=true&width=400&lines=♥+CONECTE-SE+♥" alt="Social" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=400&lines=%E2%99%A5+CONECTE-SE+%E2%99%A5;LinkedIn+%7C+Instagram;Vamos+trocar+uma+ideia!" alt="Conecte-se Typing" />
+
 </div>
 
 <br>
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
 
 <div align="center">
 
