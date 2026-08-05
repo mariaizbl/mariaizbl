@@ -1,6 +1,10 @@
 <div align="center">
 
-# :space_invader: Maria Izabel 
+# :space_invader: DEV_PORTFOLIO
+
+<img src="./assets/avatar-pixel.png" width="180" alt="" />
+
+<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Analista+de+Suporte+T%C3%A9cnico;Futuro+Analista+de+Dados;21+anos+%7C+Apaixonado+por+Tecnologia;Windows+%2F+Linux+User" alt="Typing SVG" />
 
@@ -12,18 +16,18 @@
 
 ```bash
 $ whoami
-> 21 anos | Analista de Suporte Técnico..
-> Apaixonado por tecnologia e resolução de problemas;
+> 21 anos | Analista de Suporte Técnico
+> Apaixonado por tecnologia e resolução de problemas
 
 $ cat missao.txt
-> 🎯 Meu grande objetivo é me tornar Analista de Dados;
-> 📊 Acredito que dados contam histórias poderosas;
-> ⚡ Cada linha de código é um passo para o futuro.
+> 🎯 Meu grande objetivo é me tornar Analista de Dados
+> 📊 Acredito que dados contam histórias poderosas
+> ⚡ Cada linha de código é um passo para o futuro
 
 $ neofetch
-> OS: Windows / Linux (dual boot);
-> Cargo: Analista de Suporte Técnico;
-> Meta: Analista de Dados;
+> OS: Windows / Linux (dual boot)
+> Cargo: Analista de Suporte Técnico
+> Meta: Analista de Dados
 > Status: ● ONLINE e evoluindo...
 ```
 
@@ -60,6 +64,20 @@ $ neofetch
 
 </div>
 
+---
+
+## :chart_with_upwards_trend: GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0a1a&title_color=a855f7&icon_color=c084fc&text_color=e8e0f5)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0a1a&title_color=a855f7&text_color=e8e0f5)
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=400&lines=%E2%99%A5+CONECTE-SE+%E2%99%A5;LinkedIn+%7C+Instagram;Vamos+trocar+uma+ideia!" alt="Conecte-se Typing" />
@@ -70,13 +88,27 @@ $ neofetch
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariaizabeltech)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mariaizbl_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEUPERFIL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEUPERFIL)
 
 </div>
 
 ---
 
+## :snake: Portfólio Interativo
+
+> :video_game: Tenho um site com jogo da cobrinha! Confira:
+> 
+> :point_right: **[Acesse meu portfólio pixel art](https://SEUUSUARIO.github.io)**
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake-dark.svg)
+
 ### :purple_heart: *"Cada linha de código é um passo para o futuro"*
 
+![Visitors](https://komarev.com/ghpvc/?username=SEUUSUARIO&color=a855f7&style=for-the-badge&label=VISITANTES)
 
+</div>
