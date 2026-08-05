@@ -1,6 +1,6 @@
 <div align="center">
 
-# :space_invader: DEV_PORTFOLIO
+# :space_invader: Maria Izabel
 
 <img src="./assets/avatar-pixel.png" width="180" alt="" />
 
