@@ -68,7 +68,17 @@ $ neofetch
 
 ---
 
-## :globe_with_meridians: Conecte-se comigo
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2000&pause=500&color=C084FC&center=true&vCenter=true&width=400&lines=♥+CONECTE-SE+♥" alt="Social" />
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
 
 <div align="center">
 
