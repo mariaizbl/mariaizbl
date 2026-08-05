@@ -56,18 +56,6 @@ $ neofetch
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0a1a&title_color=a855f7&icon_color=c084fc&text_color=e8e0f5)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0a1a&title_color=a855f7&text_color=e8e0f5)
-
-</div>
-
----
-
 ## 🌐 Conecte-se comigo
 
 <div align="center">
@@ -77,22 +65,10 @@ $ neofetch
 
 </div>
 
----
-
-## 🐍 Portfólio Interativo
-
-> 🎮 Tenho um site com jogo da cobrinha! Confira:
-> 
-> 👉 **[Acesse meu portfólio pixel art](https://SEUUSUARIO.github.io)**
-
----
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake-dark.svg)
 
 ### 💜 *"Cada linha de código é um passo para o futuro"*
-
-![Visitors](https://komarev.com/ghpvc/?username=SEUUSUARIO&color=a855f7&style=for-the-badge&label=VISITANTES)
 
 </div>
