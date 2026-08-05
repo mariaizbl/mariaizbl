@@ -28,10 +28,16 @@ $ neofetch
 ```
 
 ---
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2000&pause=500&color=E879F9&center=true&vCenter=true&width=400&lines=★+SKILLS+%26+TECH+★" alt="Skills" />
+</div>
 
-## :rocket: Linguagens & Tecnologias que estou aprendendo
+<br>
 
 <div align="center">
+<table>
+<tr>
+<td align="center">
 
 ### :computer: Desenvolvimento Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
