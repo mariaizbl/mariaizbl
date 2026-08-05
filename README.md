@@ -1,6 +1,6 @@
 <div align="center">
 
-# :space_invader: DEV_PORTFOLIO
+# :space_invader: Maria Izabel 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Analista+de+Suporte+T%C3%A9cnico;Futuro+Analista+de+Dados;21+anos+%7C+Apaixonado+por+Tecnologia;Windows+%2F+Linux+User" alt="Typing SVG" />
 
@@ -12,18 +12,18 @@
 
 ```bash
 $ whoami
-> 21 anos | Analista de Suporte Técnico
-> Apaixonado por tecnologia e resolução de problemas
+> 21 anos | Analista de Suporte Técnico..
+> Apaixonado por tecnologia e resolução de problemas;
 
 $ cat missao.txt
-> 🎯 Meu grande objetivo é me tornar Analista de Dados
-> 📊 Acredito que dados contam histórias poderosas
-> ⚡ Cada linha de código é um passo para o futuro
+> 🎯 Meu grande objetivo é me tornar Analista de Dados;
+> 📊 Acredito que dados contam histórias poderosas;
+> ⚡ Cada linha de código é um passo para o futuro.
 
 $ neofetch
-> OS: Windows / Linux (dual boot)
-> Cargo: Analista de Suporte Técnico
-> Meta: Analista de Dados
+> OS: Windows / Linux (dual boot);
+> Cargo: Analista de Suporte Técnico;
+> Meta: Analista de Dados;
 > Status: ● ONLINE e evoluindo...
 ```
 
@@ -70,8 +70,8 @@ $ neofetch
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEUPERFIL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEUPERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariaizabeltech)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mariaizbl_)
 
 </div>
 
