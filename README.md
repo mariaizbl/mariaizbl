@@ -12,7 +12,7 @@
 ```bash
 $ whoami
 > 21 anos | Analista de Suporte Técnico
-> Apaixonado por tecnologia e resolução de problemas
+> Apaixonada por tecnologia e resolução de problemas
 
 $ cat missao.txt
 > 🎯 Meu grande objetivo é me tornar Analista de Dados
